@@ -1,0 +1,16 @@
+body {
+	background-image: url("../assets/man-bkg.jpg"); 
+	background-repeat: no-repeat;  
+	background-size: cover;
+}
+
+
+
+
+
+h1{
+	font-family: 'Raleway';
+	font-size: 100px;
+	font-weight: 400;
+	color: black;
+}
